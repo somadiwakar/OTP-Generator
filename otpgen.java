@@ -1,5 +1,3 @@
-package hello;
-
 import java.util.Random;
 public class otpgen{
      static char[] OTP (int len)
